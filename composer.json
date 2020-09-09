@@ -1,0 +1,11 @@
+{
+    "name": "my.project.local/example",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "andrey skvortsov",
+            "email": "andreys@trueflip.io"
+        }
+    ],
+    "require": {}
+}
